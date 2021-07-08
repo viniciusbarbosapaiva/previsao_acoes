@@ -3,7 +3,6 @@ streamlit
 matplotlib
 fbprophet 
 plotly 
-datetime 
-warnings
+datetime
 pandas 
 yfinance 
