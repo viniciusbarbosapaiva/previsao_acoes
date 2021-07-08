@@ -1,0 +1,9 @@
+numpy 
+streamlit 
+matplotlib
+fbprophet 
+plotly 
+datetime 
+warnings
+pandas 
+yfinance 
